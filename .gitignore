@@ -1,0 +1,7 @@
+FRE_dataset/
+*.keras
+*.h5
+*.weights
+*.csv
+checkpoints/
+.DS_Store
